@@ -12,7 +12,7 @@ ScrollTrigger.create({
     // end: '+=1000 center',  // 원래크기에서 1000픽셀을 더하겠다
     // markers: true,
     pin: true,  // 핀은 보통 부모에게 주는걸 추천
-    // pinSpacing: false      // 밑에 공간을 없애고 trigger가 아래 컨텐츠 위에 올라온다 (헤더 느낌)
+    // pinSpacing: false      // 밑에 공간을 없애고 trigger가 밑에(다음) 컨텐츠 위에 올라온다 (헤더 느낌)
     // pinType: 'transform', // 기본값은 fixed, transform의 경우 transform Y값으로 고정되는 느낌이난다.
     animation: tl,
     scrub: 1
