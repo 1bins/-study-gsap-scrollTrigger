@@ -18,16 +18,16 @@
 [3-2] ⭐글자 효과/ resize했을 때 함수 중복실행 방지 (Debounce/Throttle) https://productive-printer-b81.notion.site/Throttle-Debounce-c7e6b48857f84e2c92a2f6db6fe7fac7
 [3-3] drawSVG + motionPath
 [3-4] ❌ SPA관련인데, 리액트 사용이라 인강 안들음
-[3-5] 
+[3-5] india peru ...
 
-[4-1] 
-[4-2] 
-[4-3] 
-[4-4] 
+[4-1] 슬라이드 레이아웃
+[4-2] 겹겹이 쌓이는 슬라이드 레이아웃(하이브리드 홈페이지)
+[4-3] fullPage js 느낌
+[4-4] horizontal scroll
 [4-5] 
 
-[5-1] 
-[5-1] 
+[5-1] 반응형 matchMedia
+[5-1] 동작줄이기 사용된 핸드폰/데스크탑의 경우 reduceMotion 하는 방법
 
 
 
